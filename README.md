@@ -5,13 +5,23 @@ PDA-T2 is the continuation of the PDA-T project that I started a few months back
 
 What does it do?
 
-PDA-T2 aims to provide a stable player experience to someone with no knowledge of the Japanese language. Basically, make the core game  understandable and usable to a non-Japanese speaker.
+PDA-T2 aims to provide a stable player experience to someone with no knowledge of the Japanese language. Basically, make the core game  understandable and usable to a non-Japanese speaker. It is not a completely accurate translation, think of it as a localisation project.
 
 The module select, lyrics, titles and various screens will all be translated by the final release.
 
 How do I install it?
 
-Copy the latest files to the areas designated on the GitHub repository, run the game and enjoy! If you're using mdata, please make sure to install the patch in the mdata area as well.
+DivaLoader + Separated MDATA:
+1. Download PDA-T2's files.
+2. Place the rom folder's contents in your rom folder where PDAFT is located.
+3. Place the MDATA folder's contents in the MDATA folder where PDAFT is located.
+4. Run the game, enjoy!
+
+Cainan's MDATA Merged Patch:
+1. Download PDA-T2's files.
+2. First, place the contents of the rom folder in your rom folder.
+3. Then, place the contents of the MDATA folder in your rom folder, where things such as mdata_pv_db should be located.
+4. Run the game, enjoy!
 
 Something is wrong, what can I do?
 
