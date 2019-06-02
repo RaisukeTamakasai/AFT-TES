@@ -1,4 +1,5 @@
-# PDA-T2
+# PDA-T2 
+# (If you don't read this READ ME you don't have permission to ask questions :3 )
 What is PDA-T2?
 
 PDA-T2 is the continuation of the PDA-T project that I started a few months back to make the game Hatsune Miku: Project Diva Arcade playable in English to some extent. With the public dump of Arcade Future Tone, I thought a new revision of this project was in order.
@@ -15,6 +16,8 @@ DivaLoader + Separated MDATA (Extremely Recommended):
 1. Download PDA-T2's files.
 2. Place the M998 folder in the MDATA folder of your PDAFT directory.
 3. Run the game, enjoy!
+
+NOTE: If you are using an MDATA-based mod that adds songs or new charts, simply rename the M998 folder to a lower number. Please do not report issues about mod translations, you'd have to ask the creator.
 
 Alternative Install (Advanced Users):
 1. Download PDA-T2's files.
