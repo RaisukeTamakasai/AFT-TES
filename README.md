@@ -11,17 +11,15 @@ The module select, lyrics, titles and various screens will all be translated by 
 
 How do I install it?
 
-DivaLoader + Separated MDATA:
+DivaLoader + Separated MDATA (Extremely Recommended):
 1. Download PDA-T2's files.
-2. Place the rom folder's contents in your rom folder where PDAFT is located.
-3. Place the MDATA folder's contents in the MDATA folder where PDAFT is located.
-4. Run the game, enjoy!
+2. Place the M998 folder in the MDATA folder of your PDAFT directory.
+3. Run the game, enjoy!
 
-Cainan's MDATA Merged Patch:
+Alternative Install (Advanced Users):
 1. Download PDA-T2's files.
-2. First, place the contents of the rom folder in your rom folder.
-3. Then, place the contents of the MDATA folder in your rom folder, where things such as mdata_pv_db should be located.
-4. Run the game, enjoy!
+2. Replace the existing files with their appropriate PDA-T2 counterparts in the rom folder.
+3. Run the game, enjoy!
 
 Something is wrong, what can I do?
 
