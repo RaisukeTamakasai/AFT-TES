@@ -13,7 +13,9 @@ Se planea que el juego en su totalidad este traducido al español para el lanzam
 Como lo instalo?
 
 Opcion A:
+  
   DivaLoader + MDATA Separado (Muy Recomendado):
+    
     1. Descarga los archivos de PDA-T(Español).
     2. Coloca la carpeta M998 en la carpeta MDATA del directorio de tu juego.
     3. Corre el juego con normalidad y disfruta!
@@ -21,7 +23,9 @@ Opcion A:
 NOTA: Si estas usando un mod MDATA que añada mas modulos o canciones al juego, simplemente renombra la carpeta M998 a un numero inferior al de el mod en cuestion, por favor abstenerse de reportar errores con mods al creador de estos.
 
 Opcion B:
+  
   Instalacion Alternativa (Usuarios Avanzados):
+    
     1. Descarga los archivos de PDA-T(Español).
     2. Remplaza los archivos del directorio rom con los archivos de PDA-T(Español).
     3. Corre el juego con normalidad y disfruta!
