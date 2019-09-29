@@ -1,37 +1,40 @@
-# PDA-T2 
-# (If you don't read this READ ME you don't have permission to ask questions :3 )
-What is PDA-T2?
+# PDA-T(Español)
+# (Si no lees este archivo Readme abstente de realizar preguntas )
+Que es PDA-T(Español)?
 
-PDA-T2 is the continuation of the PDA-T project that I started a few months back to make the game Hatsune Miku: Project Diva Arcade playable in English to some extent. With the public dump of Arcade Future Tone, I thought a new revision of this project was in order.
+PDA-T(Español) Es una modificacion de la rama principal PDA-T2, la continuacion de la modificacion PDA-T realizada originalmente con la intencion de traducir Project Diva Arcade al ingles, traduccion que se continuo con la filtracion de Project Diva Arcade Future Tone
 
-What does it do?
+Que Hace?
 
-PDA-T2 aims to provide a stable player experience to someone with no knowledge of the Japanese language. Basically, make the core game  understandable and usable to a non-Japanese speaker. It is not a completely accurate translation, think of it as a localisation project.
+PDA-T(Español) busca entregarle una experiencia estable a un jugador sin conocimiento alguno del idioma japones, esto al traducir el juego al idioma español, cabe aclarar que esta traduccion no es 100% fiel sino que se podria considerar una localizacion del juego.
 
-The module select, lyrics, titles and various screens will all be translated by the final release.
+Se planea que el juego en su totalidad este traducido al español para el lanzamiento final.
 
-How do I install it?
+Como lo instalo?
 
-DivaLoader + Separated MDATA (Extremely Recommended):
-1. Download PDA-T2's files.
-2. Place the M998 folder in the MDATA folder of your PDAFT directory.
-3. Run the game, enjoy!
+Opcion A:
+  DivaLoader + MDATA Separado (Muy Recomendado):
+    1. Descarga los archivos de PDA-T(Español).
+    2. Coloca la carpeta M998 en la carpeta MDATA del directorio de tu juego.
+    3. Corre el juego con normalidad y disfruta!
 
-NOTE: If you are using an MDATA-based mod that adds songs or new charts, simply rename the M998 folder to a lower number. Please do not report issues about mod translations, you'd have to ask the creator.
+NOTA: Si estas usando un mod MDATA que añada mas modulos o canciones al juego, simplemente renombra la carpeta M998 a un numero inferior al de el mod en cuestion, por favor abstenerse de reportar errores con mods al creador de estos.
 
-Alternative Install (Advanced Users):
-1. Download PDA-T2's files.
-2. Replace the existing files with their appropriate PDA-T2 counterparts in the rom folder.
-3. Run the game, enjoy!
+Opcion B:
+  Instalacion Alternativa (Usuarios Avanzados):
+    1. Descarga los archivos de PDA-T(Español).
+    2. Remplaza los archivos del directorio rom con los archivos de PDA-T(Español).
+    3. Corre el juego con normalidad y disfruta!
 
-Something is wrong, what can I do?
+Existe un error, como lo arreglo?
 
-If there's an issue with the graphics or text (apart from the font) used in PDA-T2, please let me know either by making an issue on GitHub or messaging me on Discord at Jay39#7310.
+Si existe un error con los textos o imagenes usadas en PDA-T(Español) (aparte de los textos generados por el propio juego) Dejanos saber creando un reporte de error en github o contactando en discord tanto a el creador de PDA-T2 Jay39#7310 o al traductor al español RaisukeTamakasai#1273.
 
-Can I upload footage of the game using this translation to YouTube?
+Puedo subir contenido usando esta modificacion a youtube?
 
-Yes, but with credit to PDA-T2 either in the Description or Video itself. Same applies for other social networking sites or video hosting.
+Si, Pero entregando creditos a PDA-T(Español) en la descripcion del video o en el video mismo, esto tambien aplica a otros medios de contenido.
 
+(Agradecimientos y Creditos entregados por el creador de PDA-T2)
 Special Thanks/Credits:
 Thank you to Skyth for MMM, a wonderful tool that supports graphic replacement.
 Thank you to Samyuu for the various tools that make the series feel more lively, such as TLAC.
