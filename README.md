@@ -39,11 +39,13 @@ Puedo subir contenido usando esta modificacion a youtube?
 Si, Pero entregando creditos a PDA-T(Español) en la descripcion del video o en el video mismo, esto tambien aplica a otros medios de contenido.
 
 (Agradecimientos y Creditos entregados por el creador de PDA-T2)
+
 Special Thanks/Credits:
-Thank you to Skyth for MMM, a wonderful tool that supports graphic replacement.
-Thank you to Samyuu for the various tools that make the series feel more lively, such as TLAC.
-Thank you to Mimi for graphic work and making bases.
-Thank you to Nastys for supporting the project.
-Thank you to Lemon for the music note idea, still.
-Thank you to my Japanese teachers, couldn't have done it without you. <3
-Thank you to the user base for giving me a reason to do this, helps with ye olde depression.
+
+  Thank you to Skyth for MMM, a wonderful tool that supports graphic replacement.
+  Thank you to Samyuu for the various tools that make the series feel more lively, such as TLAC.
+  Thank you to Mimi for graphic work and making bases.
+  Thank you to Nastys for supporting the project.
+  Thank you to Lemon for the music note idea, still.
+  Thank you to my Japanese teachers, couldn't have done it without you. <3
+  Thank you to the user base for giving me a reason to do this, helps with ye olde depression.
