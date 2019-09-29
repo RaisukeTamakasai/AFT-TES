@@ -40,6 +40,8 @@ Si, Pero entregando creditos a PDA-T(Español) en la descripcion del video o en 
 
 (Agradecimientos y Creditos entregados por el creador de PDA-T2)
 
+
+
 Special Thanks/Credits:
 
   Thank you to Skyth for MMM, a wonderful tool that supports graphic replacement.
