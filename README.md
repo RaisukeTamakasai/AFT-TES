@@ -1,12 +1,12 @@
-# PDA-T(Español)
+# PDA-TES
 # (Si no lees este archivo Readme abstente de realizar preguntas )
-Que es PDA-T(Español)?
+Que es PDA-TES?
 
-PDA-T(Español) Es una modificacion de la rama principal PDA-T2, la continuacion de la modificacion PDA-T realizada originalmente con la intencion de traducir Project Diva Arcade al ingles, traduccion que se continuo con la filtracion de Project Diva Arcade Future Tone
+PDA-TES Es una modificacion de la rama principal PDA-T2, la continuacion de la modificacion PDA-T realizada originalmente con la intencion de traducir Project Diva Arcade al ingles, traduccion que se continuo con la filtracion de Project Diva Arcade Future Tone
 
 Que Hace?
 
-PDA-T(Español) busca entregarle una experiencia estable a un jugador sin conocimiento alguno del idioma japones, esto al traducir el juego al idioma español, cabe aclarar que esta traduccion no es 100% fiel sino que se podria considerar una localizacion del juego.
+PDA-TES busca entregarle una experiencia estable a un jugador sin conocimiento alguno del idioma japones, esto al traducir el juego al idioma español, cabe aclarar que esta traduccion no es 100% fiel sino que se podria considerar una localizacion del juego.
 
 Se planea que el juego en su totalidad este traducido al español para el lanzamiento final.
 
@@ -16,7 +16,7 @@ Opcion A:
   
   DivaLoader + MDATA Separado (Muy Recomendado):
     
-    1. Descarga los archivos de PDA-T(Español).
+    1. Descarga los archivos de PDA-TES.
     2. Coloca la carpeta M998 en la carpeta MDATA del directorio de tu juego.
     3. Corre el juego con normalidad y disfruta!
 
@@ -26,17 +26,17 @@ Opcion B:
   
   Instalacion Alternativa (Usuarios Avanzados):
     
-    1. Descarga los archivos de PDA-T(Español).
-    2. Remplaza los archivos del directorio rom con los archivos de PDA-T(Español).
+    1. Descarga los archivos de PDA-TES.
+    2. Remplaza los archivos del directorio rom con los archivos de PDA-TES.
     3. Corre el juego con normalidad y disfruta!
 
 Existe un error, como lo arreglo?
 
-Si existe un error con los textos o imagenes usadas en PDA-T(Español) (aparte de los textos generados por el propio juego) Dejanos saber creando un reporte de error en github o contactando en discord tanto a el creador de PDA-T2 Jay39#7310 o al traductor al español RaisukeTamakasai#1273.
+Si existe un error con los textos o imagenes usadas en PDA-TES (aparte de los textos generados por el propio juego) Dejanos saber creando un reporte de error en github o contactando en discord tanto a el creador de PDA-T2 Jay39#7310 o al traductor al español RaisukeTamakasai#1273.
 
 Puedo subir contenido usando esta modificacion a youtube?
 
-Si, Pero entregando creditos a PDA-T(Español) en la descripcion del video o en el video mismo, esto tambien aplica a otros medios de contenido.
+Si, Pero entregando creditos a PDA-TES en la descripcion del video o en el video mismo, esto tambien aplica a otros medios de contenido.
 
 (Agradecimientos y Creditos entregados por el creador de PDA-T2)
 
